@@ -1,2 +1,3 @@
-# CaseStudy2DDS
-DDS Case Study 2
+# Case Study 2 DDS Analytics
+## An analysis of attrition in existing employee data
+
